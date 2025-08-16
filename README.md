@@ -1,2 +1,2 @@
-# CS771 - Introdunction To ML
+# CS771 - Introduction To ML
 Instructor - PURUSHOTTAM KAR 
